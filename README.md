@@ -1,1 +1,1 @@
-Still needs to be improved; movie recommender that allows user to use CLI to add movie ratings and get movie recommendations based on ratings and genres text files. Made this for a CS 210 assignment.
+Still needs to be improved; movie recommender that allows user to use CLI to add movie ratings and get movie recommendations based on ratings and genres text files. Made this for a CS 210 assignment in Jupyter environment and adjusted to work in a Python project folder.
